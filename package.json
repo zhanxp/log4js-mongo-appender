@@ -1,0 +1,28 @@
+{
+  "name": "log4js-mongo-appender",
+  "description": "log4js-mongo-appender",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanxp/log4js-mongo-appender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanxp/log4js-mongo-appender/issues"
+  },
+	"homepage": "https://github.com/zhanxp/log4js-mongo-appender#readme",
+	"dependencies": {
+		"log4js": "^2.4.1",
+		"mongodb": "^2.2.34",
+		"lx-helpers": "^0.5.1"
+	}
+}
