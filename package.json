@@ -22,7 +22,7 @@
 	"homepage": "https://github.com/zhanxp/log4js-mongo-appender#readme",
 	"dependencies": {
 		"log4js": "^2.4.1",
-		"mongodb": "^2.2.34",
+		"mongodb": "^3.6.1",
 		"lx-helpers": "^0.5.1"
 	}
 }
